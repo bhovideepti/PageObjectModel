@@ -1,0 +1,11 @@
+target
+test-output
+.metadata
+.settings
+.classpath
+.project
+*.iml
+*.log
+*.gz
+.idea
+.idea/*
